@@ -1,0 +1,7 @@
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\bin\Debug\encapsulamentoComC#.exe.config
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\bin\Debug\encapsulamentoComC#.exe
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\bin\Debug\encapsulamentoComC#.pdb
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\obj\Debug\encapsulamentoComC#.csproj.AssemblyReference.cache
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\obj\Debug\encapsulamentoComC#.csproj.CoreCompileInputs.cache
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\obj\Debug\encapsulamentoComC#.exe
+C:\Users\elder\source\repos\encapsulamentoComC#\encapsulamentoComC#\obj\Debug\encapsulamentoComC#.pdb
