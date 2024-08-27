@@ -1,0 +1,7 @@
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\bin\Debug\propriedasGetSetNoC#.exe.config
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\bin\Debug\propriedasGetSetNoC#.exe
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\bin\Debug\propriedasGetSetNoC#.pdb
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\obj\Debug\propriedasGetSetNoC#.csproj.AssemblyReference.cache
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\obj\Debug\propriedasGetSetNoC#.csproj.CoreCompileInputs.cache
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\obj\Debug\propriedasGetSetNoC#.exe
+C:\Users\elder\source\repos\propriedasGetSetNoC#\propriedasGetSetNoC#\obj\Debug\propriedasGetSetNoC#.pdb
