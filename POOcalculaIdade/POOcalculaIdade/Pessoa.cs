@@ -23,19 +23,28 @@ namespace POOcalculaIdade
 			set { anoNascimento = value; }
 		}
 
-		private int calcularIdade() 
+        private int idade;
+        private void calcularIdade() 
 		{ 
 			DateTime data = DateTime.Now;//pega data ou ano atual do sistema
 			int ano = data.Year;
-			int idade = ano - this.propriedadeNascimento;
-			return idade;
+			idade = ano - this.propriedadeNascimento;
 		}
+        public int addIdade
+		{
+			get {
+				calcularIdade();
+				return this.idade;
+			}//método apenas com get
+		}
+
 
 		public void ExibirDados() 
 		{
 			Console.WriteLine("Nome: "+this.propriedadeNome);
 			Console.WriteLine("Ano de Nascimento: " + this.propriedadeNascimento);
-			Console.WriteLine("Idade:" + this.calcularIdade());
+			calcularIdade();
+			Console.WriteLine("Idade: " + this.addIdade);
 		}
 
 	}
