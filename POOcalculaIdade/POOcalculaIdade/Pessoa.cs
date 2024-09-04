@@ -8,7 +8,6 @@ namespace POOcalculaIdade
 {
     internal class Pessoa
     {
-
         private String nomePessoa;
         public String propriedadeNome
         {
