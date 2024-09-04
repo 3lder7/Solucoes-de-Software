@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,16 +10,18 @@ namespace POOcalculaIdade
     {
         static void Main(string[] args)
         {
-            Pessoa objPessoa = new Pessoa();
-
             Console.WriteLine("Programa");
 
             Console.WriteLine("Digite seu nome:");
-            objPessoa.propriedadeNome = Console.ReadLine();
+            String nome = Console.ReadLine();
+            
             Console.WriteLine("Digite seu ano de nascimento:");
-            objPessoa.propriedadeNascimento = Convert.ToInt32(Console.ReadLine());
+            int ano = Convert.ToInt32(Console.ReadLine());
 
-            objPessoa.ExibirDados();
+            Pessoa p;
+            p = new Pessoa(nome, ano);
+            
+            p.ExibirDados();
             Console.ReadKey();//pra dar tempo de ler
         }
     }
