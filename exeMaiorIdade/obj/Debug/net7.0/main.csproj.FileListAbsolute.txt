@@ -1,0 +1,14 @@
+/home/runner/exeMaiorIdade/bin/Debug/net7.0/main
+/home/runner/exeMaiorIdade/bin/Debug/net7.0/main.deps.json
+/home/runner/exeMaiorIdade/bin/Debug/net7.0/main.runtimeconfig.json
+/home/runner/exeMaiorIdade/bin/Debug/net7.0/main.dll
+/home/runner/exeMaiorIdade/bin/Debug/net7.0/main.pdb
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.AssemblyInfoInputs.cache
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.AssemblyInfo.cs
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.csproj.CoreCompileInputs.cache
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.dll
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/refint/main.dll
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.pdb
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/main.genruntimeconfig.cache
+/home/runner/exeMaiorIdade/obj/Debug/net7.0/ref/main.dll
