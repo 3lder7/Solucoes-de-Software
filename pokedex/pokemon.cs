@@ -2,10 +2,14 @@ namespace PokemonNamespace
 {
     public class Pokemon
     {
-        public Pokemon()
+        public Pokemon(){
+            this.acessoNome = "";//seta o nome e descriação em branco
+            this.acessoDescricao = "";
+        }
+        public Pokemon(String nome, String descricao)//recebe o nome e descriação e altera com base no que foi recebeido
         {
-            this.nome = "";
-            this.descricao = "";
+            this.acessoNome = nome;
+            this.acessoDescricao = descricao;
         }
 
         private string nome;
@@ -33,6 +37,18 @@ namespace PokemonNamespace
         {
             Console.WriteLine("Nome Pokémon: " + acessoNome);
             Console.WriteLine("Descrição Pokémon: " + acessoDescricao);
+        }
+
+        public void ExibirDadosPokemon(Boolean formatado)
+        {
+            if(formatado == true){//se estiver formatado, (que está, no toUpper) entra na condição
+                Console.WriteLine("Nome Pokémon: " + acessoNome + " " + acessoDescricao.ToLower());
+            }
+            else{
+                Console.WriteLine("Nome Pokémon: " + acessoNome);
+                Console.WriteLine("Descrição Pokémon: " + acessoDescricao);
+            }
+           
         }
     }
 }

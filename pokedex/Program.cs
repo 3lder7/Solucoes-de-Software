@@ -1,4 +1,5 @@
 ﻿using System;
+using PokemonNamespace;
 
 namespace PooPokemonApp
 {
@@ -6,10 +7,8 @@ namespace PooPokemonApp
     {
         static void Main(string[] args)
         {
-            Pokemon instPoke = new Pokemon();
-            instPoke.acessoNome = "Pikachu";
-            instPoke.acessoDescricao = "Pokémon poderoso";
-            instPoke.ExibirDadosPokemon();
+            Pokemon instPoke = new Pokemon("Pikachu", "Pokémon poderoso");
+            instPoke.ExibirDadosPokemon(true);
 
             Console.ReadKey();
         }
