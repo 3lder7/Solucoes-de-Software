@@ -1,0 +1,15 @@
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.AssemblyInfoInputs.cache
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.AssemblyInfo.cs
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.csproj.CoreCompileInputs.cache
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.sourcelink.json
+/workspaces/Solucoes-de-Software/pokedex/bin/Debug/net8.0/pokedex
+/workspaces/Solucoes-de-Software/pokedex/bin/Debug/net8.0/pokedex.deps.json
+/workspaces/Solucoes-de-Software/pokedex/bin/Debug/net8.0/pokedex.runtimeconfig.json
+/workspaces/Solucoes-de-Software/pokedex/bin/Debug/net8.0/pokedex.dll
+/workspaces/Solucoes-de-Software/pokedex/bin/Debug/net8.0/pokedex.pdb
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.dll
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/refint/pokedex.dll
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.pdb
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/pokedex.genruntimeconfig.cache
+/workspaces/Solucoes-de-Software/pokedex/obj/Debug/net8.0/ref/pokedex.dll
