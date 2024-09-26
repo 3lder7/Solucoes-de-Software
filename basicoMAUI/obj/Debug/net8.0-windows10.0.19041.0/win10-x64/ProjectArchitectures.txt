@@ -1,0 +1,1 @@
+C:\Users\elder\source\repos\basicoMAUI\basicoMAUI\basicoMAUI.csproj;x64

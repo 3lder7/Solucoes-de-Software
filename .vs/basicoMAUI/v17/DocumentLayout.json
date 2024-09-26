@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|c:\\users\\elder\\source\\repos\\basicomaui\\basicomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|solutionrelative:basicomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|c:\\users\\elder\\source\\repos\\basicomaui\\basicomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|solutionrelative:basicomaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|c:\\users\\elder\\source\\repos\\basicomaui\\basicomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|solutionrelative:basicomaui\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|c:\\users\\elder\\source\\repos\\basicomaui\\basicomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B775ACEE-F08D-404A-B5D1-2166343277BB}|basicoMAUI\\basicoMAUI.csproj|solutionrelative:basicomaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,33 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\App.xaml.cs",
-              "RelativeDocumentMoniker": "basicoMAUI\\App.xaml.cs",
-              "ToolTip": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\App.xaml.cs",
-              "RelativeToolTip": "basicoMAUI\\App.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:32:11.833Z",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\MainPage.xaml",
+              "RelativeDocumentMoniker": "basicoMAUI\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\MainPage.xaml",
+              "RelativeToolTip": "basicoMAUI\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-26T00:30:03.134Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "basicoMAUI\\MainPage.xaml.cs",
               "ToolTip": "C:\\Users\\elder\\source\\repos\\basicoMAUI\\basicoMAUI\\MainPage.xaml.cs",
               "RelativeToolTip": "basicoMAUI\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T19:34:32.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T19:34:32.57Z"
             }
           ]
         }
